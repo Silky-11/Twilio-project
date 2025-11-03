@@ -10,8 +10,8 @@ Features:
 Technologies Used:
 -Python – For scripting and automation
 -Twilio API – For sending WhatsApp messages
--atetime Module – For scheduling messages
--Environment Variables – To store API credentials securely
+-datetime Module – For scheduling messages
+-Environment Variables – To store API credentials securely 
 
 
 Installation & Setup:
