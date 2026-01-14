@@ -17,7 +17,7 @@ Technologies Used:
 Installation & Setup:
 1. Clone the Repository
 
-git clone https://github.com/your-username/WhatsApp-Automation-Tool.git
+git clone https://github.com/Silky-11/Twilio-project.git
 cd WhatsApp-Automation-Tool
 
 2. Install Dependencies
